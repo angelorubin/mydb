@@ -1,2 +1,2 @@
 # mydb
-A json database
+A fake json server
