@@ -4,9 +4,26 @@
       "id": 1,
       "fullname": "angelo rogério rubin",
       "email":"angelorubin@gmail.com",
-      "telephone":"19-3527-2118",
+      "telephone":"19-3532-3010",
       "cellphone":"19-12345-6789",
       "website":"https://www.github.com/angelorubin"
+    },
+    {
+      "id": 2,
+      "fullname": "manoela gonzalez rubin",
+      "email":"manoelarubin@gmail.com",
+      "telephone":"19-3532-3010",
+      "cellphone":"19-12345-6789",
+      "website":"https://www.github.com/manoelarubin"
+    }
+    ,
+    {
+      "id": 3,
+      "fullname": "suzana eleide pilon gonzalez",
+      "email":"suzanaegonzalez@gmail.com",
+      "telephone":"19-3532-3010",
+      "cellphone":"19-12345-6789",
+      "website":"https://www.github.com/suzanaegonzalez"
     }
   ]
 }
